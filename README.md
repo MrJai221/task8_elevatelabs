@@ -33,11 +33,5 @@ To gain hands-on experience with Virtual Private Networks (VPNs) by setting one 
 *   **Action:** Browse a few websites to ensure your internet connection works through the VPN.
 *   **Details:** When finished, go back to the ProtonVPN app and click **"Disconnect."** You can compare your internet speed with and without the VPN using a service like `speedtest.net` to observe any performance differences.
 
-### 6. Prepare Your Report
-*   **Action:** Create a report summarizing your experience.
-*   **Deliverables:** The report must include:
-    1.  A brief description of the setup steps you followed.
-    2.  A **screenshot** of your VPN client showing an active connection.
-    3.  A summary of the benefits and limitations of using a VPN.
 
 ---
