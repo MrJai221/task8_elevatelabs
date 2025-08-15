@@ -1,0 +1,46 @@
+# Report for Task 8: VPN Setup and Analysis
+
+**Name:** [Vijay]
+**Date:** [15-08-2025]
+
+## 1. Introduction
+
+This report details the process of setting up and testing a Virtual Private Network (VPN) to understand its role in protecting online privacy and securing communications. The free tier of ProtonVPN was used for this task.
+
+## 2. VPN Setup and Connection Process
+
+The setup process was completed by following these steps:
+
+1.  **Account Creation:** A free account was created on the official ProtonVPN website.
+2.  **Software Installation:** The ProtonVPN client for my operating system was downloaded and installed successfully.
+3.  **Connection:** I launched the application, logged in, and used the "Quick Connect" feature to establish a secure connection to a server located in **[Enter the country your VPN connected to, e.g., the Netherlands]**.
+4.  **Verification:** To confirm the VPN was working, I visited `whatismyipaddress.com` before and after connecting. Before connecting, my true IP address was visible. After connecting, the website displayed a new IP address and location corresponding to the VPN server, confirming my traffic was being successfully rerouted.
+
+## 3. Connection Status Screenshot
+
+The following screenshot shows the ProtonVPN client with an active and secure connection. It displays the new IP address, server location, and connection duration.
+
+---
+**[--- INSERT YOUR SCREENSHOT HERE ---]**
+*(To do this, take a screenshot of your VPN application window while it is connected and place the image file in this section of your document.)*
+---
+
+## 4. Summary of VPN Benefits and Limitations
+
+Based on this hands-on experience and further research, the following benefits and limitations of using a VPN were identified.
+
+### Benefits
+
+*   **Privacy and Anonymity:** The most immediate benefit was the masking of my real IP address. This prevents websites, advertisers, and Internet Service Providers (ISPs) from tracking my physical location and online activities.
+*   **Enhanced Security:** By encrypting all internet traffic, a VPN creates a secure tunnel that protects sensitive data (like passwords and financial information) from being intercepted, which is especially critical when using public Wi-Fi networks.
+*   **Bypassing Geo-Restrictions:** Connecting to a server in another country allows access to content and services that might otherwise be unavailable in my region, effectively bypassing geographical content blocks.
+
+### Limitations
+
+*   **Reduced Internet Speed:** A noticeable reduction in internet speed was observed during a speed test conducted while the VPN was active. This is an expected trade-off due to the data encryption and rerouting process.
+*   **Free Tier Restrictions:** The free version of ProtonVPN has limitations, including access to servers in only a few countries and potentially lower speeds compared to paid plans. Premium services offer more server locations and better performance.
+*   **Trust is Key:** The effectiveness of a VPN is entirely dependent on the provider's privacy policy. While reputable VPNs have strict "no-logs" policies, a less trustworthy provider could potentially monitor or sell user data, defeating the purpose of using a VPN.
+
+## 5. Conclusion
+
+This task provided valuable hands-on experience with VPNs. A VPN is a powerful and essential tool for anyone concerned with online privacy and security. While there are performance trade-offs and provider limitations to consider, the benefits of protecting one's digital footprint are significant in today's interconnected world.
